@@ -19,28 +19,6 @@ This project showcases a modern support portal for managing customer queries and
 - **Dark Mode Support** - Full dark mode support throughout the application for improved accessibility
 - **Rich Components** - Leverages Syncfusion's essential component library including DataGrid, Sidebar, Buttons, Inputs, and more
 
-## Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| [ASP.NET Core 8.0](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0) | Backend framework |
-| [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) | Interactive Server UI |
-| [Syncfusion Essential UI Kit v29.1.33](https://www.syncfusion.com/essential-blazor-ui-kit) | Component library |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first styling |
-| C#, Razor | Languages |
-
-### Syncfusion Components
-
-The application uses the following Syncfusion packages:
-
-- `Syncfusion.Blazor.Grid` - Data display and management
-- `Syncfusion.Blazor.Inputs` - Form inputs and text boxes
-- `Syncfusion.Blazor.Lists` - List views and navigation
-- `Syncfusion.Blazor.Navigations` - Sidebar and navigation components
-- `Syncfusion.Blazor.ProgressBar` - Progress indicators
-- `Syncfusion.Blazor.RichTextEditor` - Rich text editing
-- `Syncfusion.Blazor.Themes` - Theming and styling system
-
 ## Prerequisites
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) or later
@@ -74,5 +52,4 @@ dotnet run
 ## References
 
 - [Essential UI Kit Documentation](https://blazor.syncfusion.com/documentation/ui-kit/overview)
-- [License Key Documentation](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview)
 - [Essential UI Kit Demo](https://blazor.syncfusion.com/essential-ui-kit/)
